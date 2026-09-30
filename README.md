@@ -84,7 +84,7 @@ source("R/08_verify_remedies.R")         # what each remedy actually recovers
 
 The full rendered report is available via **GitHub Pages**:
 
-xxxx
+https://ax-consult-group.github.io/medical-Rabivy-decision-architecture/
 
 ---
 
